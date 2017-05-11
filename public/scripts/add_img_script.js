@@ -1,7 +1,4 @@
-/**
- * Created by Kirik on 11.05.2017.
- */
-var CLOUDINARY_URL = '	https://api.cloudinary.com/v1_1/dd1kiqdyi/upload'
+/*var CLOUDINARY_URL = '	https://api.cloudinary.com/v1_1/dd1kiqdyi/upload'
 var CLOUDINARY_UPLOAD_PRESET = 'gt9tk6wr'
 
 var fileUpload = document.getElementById('file_upload');
@@ -24,4 +21,4 @@ fileUpload.addEventListener('change', function(event) {
     }).catch(function (err) {
         console.error(err);
     });
-});
+});*/
