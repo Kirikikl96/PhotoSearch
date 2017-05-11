@@ -267,6 +267,30 @@ img {
   background: rgb(152,15,0);
 }
 
+.file_upload_container {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.file_upload_container:hover {
+  background: rgb(232,95,76);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.file_upload_container:active {
+  background: rgb(152,15,0);
+}
+
 /*Блок добавления изображения*/
 
 .pg_content_add_img {
